@@ -6,7 +6,7 @@ email: 18710728376@163.com
 description: "The people and things that you can not let go now, the years will be understatement for you."
 keyword: "Elijiah, elijiah, 任小京的博客, renxijing"
 url: "https://renxijing.top"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://renxijing.top"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Elijiah/elijiah.github.io.git" # you code repository
 
 # Sidebar settings
