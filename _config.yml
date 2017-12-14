@@ -3,13 +3,11 @@ title: RXJ Blog
 <<<<<<< HEAD
 SEOTitle: 任小京的博客 | RXJ Blog
 =======
-SEOTitle: 任小京的博客 | BY Blog
->>>>>>> 9d9b508cb4cb576ba24a9f9620d351462b1431a5
-header-img: img/post-bg-desk.jpg
+=======
 email: 18710728376@163.com
 description: "The people and things that you can not let go now, the years will be understatement for you."
 keyword: "Elijiah, elijiah, 任小京的博客, renxijing"
-url: "https://elijiah.github.io/"          # your host, for absolute URL
+url: "https://elijiah.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Elijiah/elijiah.github.io.git" # you code repository
 
